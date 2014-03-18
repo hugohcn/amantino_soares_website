@@ -1,0 +1,10 @@
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\Common\bin\Debug\Common.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\Common\bin\Debug\Common.pdb
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\Common\obj\Debug\Common.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\Common\obj\Debug\Common.pdb
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\Common\bin\Debug\Common.dll
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\Common\bin\Debug\Common.pdb
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\Common\obj\Debug\Common.dll
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\Common\obj\Debug\Common.pdb

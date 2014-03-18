@@ -1,0 +1,7 @@
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\crdasSite.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\crdasSite.pdb
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\Common.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\Common.pdb
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\obj\Release\crdasSite.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\obj\Release\crdasSite.pdb

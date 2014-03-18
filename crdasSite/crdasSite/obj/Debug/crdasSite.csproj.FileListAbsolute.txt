@@ -1,0 +1,14 @@
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\crdasSite.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\crdasSite.pdb
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\obj\Debug\crdasSite.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\obj\Debug\crdasSite.pdb
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\Common.dll
+D:\Documents and Settings\Hugo Nascimento\Desktop\Clínicas Radiológicas\Site\Projeto\crdasSite\crdasSite\bin\Common.pdb
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\bin\crdasSite.dll
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\bin\crdasSite.pdb
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\bin\Common.dll
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\bin\Common.pdb
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\obj\Debug\ResolveAssemblyReference.cache
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\obj\Debug\crdasSite.dll
+E:\Portifolio GitHub\Amantino Soares Clinic - Web Site - OK\Código Fonte\crdasSite\crdasSite\obj\Debug\crdasSite.pdb

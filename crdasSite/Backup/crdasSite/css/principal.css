@@ -1,0 +1,403 @@
+body
+{
+    background-color: #f3f3f3;
+    font-family: Verdana;
+    font-size: 12px;
+    color: #00243c;
+}
+
+#faixaTopo
+{
+    background-color: #a49263;
+    height: 37px;
+    width: 100%;
+}
+
+#faixaTopo span
+{
+    font-weight: bold;
+    display: block;
+    position: relative;
+    top: 8px;
+}
+
+#logo
+{
+    background-image: url( '../images/logo.jpg' );
+    background-repeat: no-repeat;
+    width: 159px;
+    height: 90px;
+    position: relative;
+    top: 22px;
+    left: 35px;
+}
+
+div#menu
+{
+    position: relative;
+    top: 55px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 12px;
+    float: right;
+}
+
+div#menu
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+div#menu ul
+{
+    list-style: none;
+    display: inline;
+}
+
+div#menu ul li
+{
+    display: inline;
+}
+
+div#menu ul li a
+{
+    text-decoration: none;
+    color: #363636;
+}
+
+div#menu ul li a:hover
+{
+    text-decoration: underline;
+    width: 52px;
+    height: 21px;
+}
+
+#blckMiddle
+{
+    position: relative;
+    top: 70px;
+    color: #00243c;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+#blckMiddle #exames span
+{
+    color: #a49263;
+    font-weight: bold;
+}
+
+ul#examesList
+{
+    margin: 25px 0 0 0;
+    padding: 0;
+}
+
+ul#examesList li
+{
+    margin: 10px 0px 5px 0;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    list-style: none;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+ul#examesList li a
+{
+    text-decoration: none;
+    color: #00243c;
+    font-size: 12px;
+}
+
+ul#examesList li a:hover
+{
+    text-decoration: underline;
+    color: #00243c;
+}
+
+#banner
+{
+    float: right;
+    margin: 0;
+    padding: 0;
+    width: 652px;
+    height: 265px;
+}
+
+#finalBlock
+{
+    position: relative; /*Padrao 70 + valor top*/
+    top: 105px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.descricao
+{
+    text-align: left;
+    margin-left: 4px;
+    width: 292px;
+    margin-top: 10px;
+    line-height: 24px;
+    height: 75px;
+    font-size: 12px;
+    font-family: Tahoma; *padding:0;
+*height:85px;
+}
+
+.inputText
+{
+    border: 1px solid #d0d0d0;
+    width: 284px;
+    height: 23px;
+    background-image: url( '../images/input_bg.jpg' );
+    background-repeat: no-repeat;
+    color: #00243c;
+    font-size: 12px;
+    font-family: Tahoma;
+    padding-left: 5px;
+}
+
+textarea
+{
+    border: 1px solid #d0d0d0;
+    width: 284px;
+    height: 118px;
+    padding: 5px 5px 5px 5px;
+    background-image: url( '../images/text_area_bg.jpg' );
+    background-repeat: no-repeat;
+    color: #00243c;
+    font-size: 13px;
+    font-family: Tahoma;
+}
+
+.btnBox
+{
+    width: 292px;
+    margin: 15px 0 20px 4px;
+    height: 21px;
+}
+
+.linkRecuperarSenha
+{
+    position: relative;
+    top: 8px;
+    float: left;
+    color: #00243c;
+    font-size: 9px;
+    text-decoration: none;
+    font-weight: bold;
+    outline: none;
+}
+
+.linkRecuperarSenha:hover
+{
+    text-decoration: underline;
+}
+
+.btnEntrar, .btnEnviar, .btnLimpar
+{
+    float: right;
+    background-repeat: no-repeat;
+    width: 52px;
+    height: 21px;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+}
+
+.btnEntrar
+{
+    background-image: url( '../images/btnEntrar.jpg' );
+}
+
+.btnEnviar
+{
+    background-image: url( '../images/btnEnviar.jpg' );
+}
+
+.btnLimpar
+{
+    background-image: url( '../images/btnLimpar.jpg' );
+}
+
+#convenios
+{
+    margin-left: 4px;
+}
+
+#convenios span
+{
+    font-weight: bold;
+    color: #a49263;
+}
+
+ul#convenioList
+{
+    margin: 25px 0 0 0;
+    padding: 0;
+}
+
+ul#convenioList li
+{
+    margin: 10px 0px 5px 0;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    list-style: none;
+}
+
+ul#convenioList li a
+{
+    text-decoration: none;
+    color: #00243c;
+    font-size: 12px;
+}
+
+ul#convenioList li a:hover
+{
+    text-decoration: underline;
+    color: #00243c;
+}
+
+#rodape
+{
+    margin-top: 70px;
+    width: 100%;
+    background-color: #a59365;
+    height: 30px;
+}
+
+#copyright, #desenvolvimento
+{
+    font-weight: bold;
+    font-size: 12px;
+    color: #00243c;
+    float: left;
+    position: relative;
+    top: 7px;
+}
+
+#desenvolvimento
+{
+    float: right;
+}
+
+#desenvolvimento a
+{
+    text-decoration: none;
+    color: #00243c;
+}
+
+#desenvolvimento a:hover
+{
+    text-decoration: underline;
+    color: #00243c;
+}
+
+/*Página de Contatos*/
+#containerContato
+{
+    text-align: left;
+}
+
+#containerContato span
+{
+    font-weight: bold;
+    color: #a49263;
+    font-size: 13px;
+}
+
+.labelCaption
+{
+    color: #00243c;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+#coluna_esq
+{
+    text-align: left;
+    float: right;
+    font-weight: bold;
+}
+
+#coluna_esq span
+{
+    color: #a49263;
+    font-size: 13px;
+}
+
+#coluna_esq label
+{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+/*Conveniados*/
+#containerConveniados
+{
+    text-align: center;
+    padding: 0;
+    color: #00243c;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#containerConveniados span
+{
+    float: left;
+    font-weight: bold;
+    color: #a49263;
+    font-size: 13px;
+}
+
+.prime
+{
+    margin: 0 20px 0 0;
+}
+
+.middle
+{
+    margin: 0 20px 0 20px;
+}
+
+.final
+{
+    margin: 0 0 0 20px;
+}
+
+.blockDescricao
+{
+ text-align: left;
+ line-height: 25px;
+}
+
+#containerAClinica
+{
+    font-weight: normal;    
+}
+
+#paragrafo_1
+{
+    font-weight: bold;    
+}
+
+
+#containerAClinica p
+{    
+    font-size: 12px;
+    text-align: justify;
+}
+
+#containerAClinica span
+{
+    float: left;
+    font-weight: bold;
+    color: #a49263;
+    font-size: 12px;    
+}
